@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "nama": "Lapangan Vatulemo (Taman Nasional)",
+    "kategori": "Jogging & Multi-olahraga",
+    "alamat": "Jl. Balaikota, Tanamodindi, Kec. Mantikulore, Kota Palu",
+    "latitude": -0.8972,
+    "longitude": 119.8781,
+    "kondisi": "Baik",
+    "fasilitas": ["Lintasan Lari", "Peralatan Fitness Outdoor", "Lampu Penerangan"],
+    "status": "Tersedia"
+  },
+  {
+    "id": 2,
+    "nama": "Gelora Bumi Kaktus (GBK) Palu",
+    "kategori": "Basket, Futsal, Voli",
+    "alamat": "Jl. Yos Sudarso, Talise, Kec. Mantikulore, Kota Palu",
+    "latitude": -0.8791,
+    "longitude": 119.8925,
+    "kondisi": "Sangat Baik",
+    "fasilitas": ["Tribun Penonton", "Kamar Ganti", "Toilet", "Parkir Luas"],
+    "status": "Tersedia"
+  },
+  {
+    "id": 3,
+    "nama": "GOR Siranindi Palu",
+    "kategori": "Badminton & Tenis Meja",
+    "alamat": "Jl. Moh. Hatta, Lolu Utara, Kec. Palu Timur, Kota Palu",
+    "latitude": -0.8994,
+    "longitude": 119.8762,
+    "kondisi": "Baik",
+    "fasilitas": ["Karpet Lapangan", "Kantin", "Kamar Mandi"],
+    "status": "Tersedia"
+  },
+  {
+    "id": 4,
+    "nama": "Lapangan Sepak Bola Telkom Palu",
+    "kategori": "Sepak Bola & Mini Soccer",
+    "alamat": "Jl. Juanda, Lolu Selatan, Kec. Palu Timur, Kota Palu",
+    "latitude": -0.9085,
+    "longitude": 119.8847,
+    "kondisi": "Baik",
+    "fasilitas": ["Rumput Sintetis", "Gawang Standar", "Lampu Malam"],
+    "status": "Tersedia"
+  }
+]

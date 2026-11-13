@@ -1,0 +1,19 @@
+{
+  "name": "pemetaan-lapangan-palu",
+  "version": "1.0.0",
+  "description": "Sistem Informasi Pemetaan dan Informasi Fasilitas Lapangan Olahraga Kota Palu Berbasis Web - Kelompok 8 RPL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [
+    "gis",
+    "pemetaan",
+    "lapangan-olahraga",
+    "palu",
+    "rpl"
+  ],
+  "author": "Kelompok 8 RPL (Kelas TI C)",
+  "license": "ISC"
+}
