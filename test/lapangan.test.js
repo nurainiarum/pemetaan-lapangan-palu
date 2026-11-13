@@ -43,6 +43,5 @@ test('4. Validasi koordinat GIS berada dalam batas wilayah geografis Kota Palu',
 test('5. Validasi logika penolakan input fasilitas tanpa nama', () => {
   const invalidField = { kategori: 'Futsal', alamat: 'Palu' };
   const isValid = Boolean(invalidField.nama && invalidField.nama.trim().length > 0);
-  // Sengaja digagalkan untuk simulasi Failed Run CI:
-  assert.equal(isValid, true, 'Fasilitas tanpa nama tidak boleh valid');
+  assert.equal(isValid, false, 'Fasilitas tanpa nama tidak boleh valid');
 });
